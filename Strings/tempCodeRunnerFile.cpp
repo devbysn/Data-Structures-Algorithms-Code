@@ -1,1 +1,1 @@
-abba
+temp.find(str2) != str
